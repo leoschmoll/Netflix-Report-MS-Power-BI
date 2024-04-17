@@ -16,6 +16,10 @@ These data used here will be used to show in this MS Power BI dashboard all the 
 - Step 1 : Getting the data and necessary images for the project.
 - Step 2 : Importing the data (csv file).
 - Step 3 : Preparing and CLeaning the data. Removing and renaming columns. Standardizing data types. Filtering blank and null values
+
+![calculations ](https://github.com/leoschmoll/Netflix-Report/assets/152095978/9654f438-38f9-4dbd-9ca2-c410d3aaec31)
+![relations_modeling](https://github.com/leoschmoll/Netflix-Report/assets/152095978/43a2904d-0c55-4b7d-978c-6ce426fac028)
+
 - Step 4 : Data Modeling. Building the base background  for the dashboard and setting de images and logos.
 
 ![Background](https://github.com/leoschmoll/Netflix-Report/assets/152095978/7142b599-f447-493b-9314-f02b0527c44d)
