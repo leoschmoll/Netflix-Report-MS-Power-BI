@@ -18,6 +18,8 @@ These data used here will be used to show in this MS Power BI dashboard all the 
 - Step 3 : Preparing and CLeaning the data. Removing and renaming columns. Standardizing data types. Filtering blank and null values
 - Step 4 : Data Modeling. Building the base background  for the dashboard and setting de images and logos.
 - Step 5 : Creation of the Funnel chart. Setting the dynamic gradient color ranking.
+![funnel_chart](https://github.com/leoschmoll/Netflix-Report/assets/152095978/a0ec9696-0dd0-4a14-972b-d4516ef0f409)
+
 - Step 6 : Creation and customizaction of the new featured Referenced label cards with corresponding measures.
 - Step 7 : Setting of the movie table with it filters. 
 - Step 8 : Creation of the main Slicers.
