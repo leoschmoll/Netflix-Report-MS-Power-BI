@@ -2,7 +2,6 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/18615132-5704-42e7-9f3b-8c1e6edbcd6a/ReportSection?experience=power-bi
 
-Snap of new calculated column ,
 
 ![dashboard](https://github.com/leoschmoll/Netflix-Report/assets/152095978/75ffd805-b101-481b-9b74-85d20c38e8e4)
 
